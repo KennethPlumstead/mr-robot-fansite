@@ -30,8 +30,6 @@ mr-robot-fansite/
 │  ├─ SITE_MAP.md          # navigation + page structure
 │  └─ COPY_DECK.md         # optional: main page copy
 ├─ screenshots/            # desktop & mobile screenshots
-├─ theme/                  # optional: child theme files (style.css, functions.php, templates/)
-├─ media/                  # optional: exported assets if available
 ├─ .gitignore
 ├─ LICENSE                 # MIT by default
 └─ README.md
@@ -39,21 +37,30 @@ mr-robot-fansite/
 
 ---
 
-## 🖼️ Screenshots (Desktop)
+## 🖼️ Screenshots (Responsive)
 
-![Home — Desktop](screenshots/desktop-home.png)  
-![Characters — Desktop](screenshots/desktop-characters.png)  
-![Plot — Desktop](screenshots/desktop-plot.png)  
-![About — Desktop](screenshots/desktop-about.png)
-
-## 📱 Screenshots (Mobile)
-
-![Home — Mobile](screenshots/mobile-home.png)  
-![Characters — Mobile](screenshots/mobile-characters.png)  
-![Plot — Mobile](screenshots/mobile-plot.png)  
-![About — Mobile](screenshots/mobile-about.png)  
-![Navigation — Mobile](screenshots/mobile-navigation.png)  
-
+<table>
+  <tr><th align="left">Home — Desktop</th><th align="left">Home — Mobile</th></tr>
+  <tr>
+    <td><img src="screenshots/desktop-home.png" alt="Home — Desktop" width="400"/></td>
+    <td><img src="screenshots/mobile-home.png" alt="Home — Mobile" width="200"/></td>
+  </tr>
+  <tr><th align="left">Characters — Desktop</th><th align="left">Characters — Mobile</th></tr>
+  <tr>
+    <td><img src="screenshots/desktop-characters.png" alt="Characters — Desktop" width="400"/></td>
+    <td><img src="screenshots/mobile-characters.png" alt="Characters — Mobile" width="200"/></td>
+  </tr>
+  <tr><th align="left">Plot — Desktop</th><th align="left">Plot — Mobile</th></tr>
+  <tr>
+    <td><img src="screenshots/desktop-plot.png" alt="Plot — Desktop" width="400"/></td>
+    <td><img src="screenshots/mobile-plot.png" alt="Plot — Mobile" width="200"/></td>
+  </tr>
+  <tr><th align="left">About — Desktop</th><th align="left">About — Mobile</th></tr>
+  <tr>
+    <td><img src="screenshots/desktop-about.png" alt="About — Desktop" width="400"/></td>
+    <td><img src="screenshots/mobile-about.png" alt="About — Mobile" width="200"/></td>
+  </tr>
+</table>  
 
 ---
 
