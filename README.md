@@ -39,8 +39,12 @@ mr-robot-fansite/
 
 ---
 
-## 🖼️ Screenshots
-*(place screenshots in `/screenshots` and reference here once added)*  
+## 🖼️ Screenshots (Desktop)
+
+- ![Home — Desktop](screenshots/desktop-home.png)  
+- ![Characters — Desktop](screenshots/desktop-characters.png)  
+- ![Plot — Desktop](screenshots/desktop-plot.png)  
+- ![About — Desktop](screenshots/desktop-about.png)  
 
 ---
 
