@@ -41,10 +41,19 @@ mr-robot-fansite/
 
 ## 🖼️ Screenshots (Desktop)
 
-- ![Home — Desktop](screenshots/desktop-home.png)  
-- ![Characters — Desktop](screenshots/desktop-characters.png)  
-- ![Plot — Desktop](screenshots/desktop-plot.png)  
-- ![About — Desktop](screenshots/desktop-about.png)  
+![Home — Desktop](screenshots/desktop-home.png)  
+![Characters — Desktop](screenshots/desktop-characters.png)  
+![Plot — Desktop](screenshots/desktop-plot.png)  
+![About — Desktop](screenshots/desktop-about.png)
+
+## 📱 Screenshots (Mobile)
+
+![Home — Mobile](screenshots/mobile-home.png)  
+![Characters — Mobile](screenshots/mobile-characters.png)  
+![Plot — Mobile](screenshots/mobile-plot.png)  
+![About — Mobile](screenshots/mobile-about.png)  
+![Navigation — Mobile](screenshots/mobile-navigation.png)  
+
 
 ---
 
