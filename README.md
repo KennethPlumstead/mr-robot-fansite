@@ -66,7 +66,7 @@ mr-robot-fansite/
 
 ## 🛠️ How This Was Captured
 - **Content export:** `Tools → Export → Export All Content` → saved in `export/wordpress-export.xml`  
-- **Custom CSS:** copied from `Appearance → Customize → Additional CSS` into `custom-css/additional.css`  
+- **Custom CSS:** This site was built on the free WordPress.com plan, which doesn’t allow an Additional CSS file. Styling was applied using inline <style> blocks in page content. No separate CSS file exists to export.  
 - **Information architecture:** documented in `content/SITE_MAP.md`  
 - **Screenshots:** desktop and mobile captures to show responsiveness and layout  
 
