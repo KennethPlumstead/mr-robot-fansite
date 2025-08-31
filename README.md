@@ -88,16 +88,7 @@ mr-robot-fansite/
 ---
 
 ## 📄 License & Disclaimer
-- **License:** MIT (see [`LICENSE`](LICENSE))  
-  - Alternatively, replace with “All Rights Reserved” for portfolio-only viewing permissions  
+- **License:** MIT (see [`LICENSE`](LICENSE))    
 - **Disclaimer:** This is a non-commercial fan project for educational and portfolio purposes.  
   - *Mr. Robot* and related assets remain the property of their respective rights holders  
-
----
-
-## 👋 Reviewer Notes
-- Start with `/screenshots` for a quick overview of the UI  
-- Review **`custom-css/additional.css`** to see the styling work  
-- Check **`content/SITE_MAP.md`** for navigation and IA decisions  
-- Use the **Live Site** link to experience the deployed version  
 
